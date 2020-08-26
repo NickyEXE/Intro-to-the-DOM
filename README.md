@@ -1,14 +1,16 @@
-## Slides:
-[Slides available here](https://docs.google.com/presentation/d/1EaHFVLpQbl3xGxsySenoWBRGCuXN3-CgKpwONx1PpzE/edit?usp=sharing)
+## Links:
+* [Slides available here](https://docs.google.com/presentation/d/1EaHFVLpQbl3xGxsySenoWBRGCuXN3-CgKpwONx1PpzE/edit?usp=sharing)
+* ["Wat" Gary Bernhardt video available here](https://www.destroyallsoftware.com/talks/wat)
 
-## Wat: https://www.destroyallsoftware.com/talks/wat
+## Note from Nicky:
+More detailed notes on the DOM are available in the [DOM-Basics.md](./DOM-Basics.md) file in this directory. This README largely reflects information from the slides.
 
 ## Expectations:
-### This mod is faster because you can go faster.
-### It also serves as a crash course in debugging and code organization.
+* This mod is faster because you can go faster.
+* It also serves as a crash course in debugging and code organization.
 ![Debugging In Javascript](assets/Debugging.png)
-### I will be teaching things in multiple different ways
-### "Just enough JavaScript"
+* I will be teaching things in multiple different ways
+* "Just enough JavaScript"
 ![Do You Know JS](assets/knowJS.png)
 
 ## Why is JavaScript great?
