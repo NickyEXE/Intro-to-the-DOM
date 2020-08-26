@@ -1,3 +1,6 @@
+## Slides:
+[Slides available here](https://docs.google.com/presentation/d/1EaHFVLpQbl3xGxsySenoWBRGCuXN3-CgKpwONx1PpzE/edit?usp=sharing)
+
 ## Wat: https://www.destroyallsoftware.com/talks/wat
 
 ## Expectations:
