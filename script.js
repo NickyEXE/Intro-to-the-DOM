@@ -4,7 +4,7 @@ const mainImg = document.querySelector("#main-image")
 console.log("button: ", button)
 console.log("main image: ", mainImg)
 
-function macavitoggle(){
+function macavitoggle() {
   mainImg.src = "./macavity.gif"
 }
 
